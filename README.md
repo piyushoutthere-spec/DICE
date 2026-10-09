@@ -14,4 +14,9 @@ also want to know the history of the plays. Created using HTML, CSS , Javascript
 ### Installing
 - You can get through the site using below link
 ### Executing Program 
-- Please Click this link to visit the Website- 
+- Please Click this link to visit the Website- https://piyushoutthere-spec.github.io/DICE/
+
+# Help
+- Usually the site will not crash if it happens please refresh the page once or close the tab and click the given link again.
+## Liscense
+The project is made for personal use.
